@@ -1,11 +1,12 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 19.11.24
 
 ## AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
+![Screenshot 2024-11-19 223920](https://github.com/user-attachments/assets/8e38a4bd-56d4-486f-a235-9ade4c8e52c1)
 
 
 ## DESIGN STEPS
@@ -28,7 +29,8 @@ Execute Django admin and create details for 10 books
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot 2024-11-13 000001](https://github.com/user-attachments/assets/2138c947-e74d-4123-92f2-3a1aab2c7835)
+
 
 
 ## RESULT
